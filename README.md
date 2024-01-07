@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumayaakter320.sumayaakter320"/>
 <br>
 
+![I am a Frontend web developer](https://pbs.twimg.com/media/EfSnekYWkAEs6mu.jpg:large)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumaya!;"/>
 </h1>
-
-![I am a Frontend web developer](https://pbs.twimg.com/media/EfSnekYWkAEs6mu.jpg:large)
-
-<h2 align="center">About Me</h2>
 
 <div align="center">
     <h4>🖥️ I'm a full-stack web developer</h4>
