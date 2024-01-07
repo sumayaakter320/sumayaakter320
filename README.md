@@ -1,5 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumayaakter320.sumayaakter320"/>
 
+<br>
+<br>
+
+<img src="images/readme_banner.png" alt="readme_banner">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumaya!;"/>
 </h1>
