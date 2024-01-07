@@ -48,6 +48,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div>
-    <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=sumayaakter320&show_icons=true&theme=radical"/>
-    <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaakter320&langs_count=8"/>
+    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=sumayaakter320&show_icons=true&theme=radical"/>
+    <img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaakter320&langs_count=8"/>
 </div>
