@@ -10,7 +10,7 @@
 <div align="center">
     <h4>🖥️ I'm a full-stack web developer</h4>
     <h4>😎 I'm passionate about making e-commerce websites</h4>
-    <h4>🔭 I’m currently working on Project Beatles</h4>
+    <h4>🔭 I’m currently working on Project Hospital</h4>
     <h4>🌱 I’m currently learning Javascript</h4>
     <h4>👯 I’m looking to collaborate on  developing projects</h4>
     <h4>🤔 I’m looking for help with Javascript</h4>
