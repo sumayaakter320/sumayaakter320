@@ -1,6 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumayaakter320.sumayaakter320"/>
-
-<br>
 <br>
 
 <img src="images/readme_banner.png" alt="readme_banner">
